@@ -1,9 +1,11 @@
 # Al Kapone
 
+<br>
+
 ![Hustler/Developer](https://i.imgur.com/H3AVHuX.png)
 
 <p align="center">
-<br>
+<br><br>
 </p>
 
 ### [+] About Me:
