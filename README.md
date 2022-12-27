@@ -1,4 +1,4 @@
-<u>Al Kapone</u>
+# Al Kapone
 
 ![Hustler/Developer](https://i.imgur.com/H3AVHuX.png)
 Hustler/Developer
