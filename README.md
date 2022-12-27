@@ -1,7 +1,6 @@
 # Al Kapone
 
 ![Hustler/Developer](https://i.imgur.com/H3AVHuX.png)
-Hustler/Developer
 
 <p align="center">
 <br>
