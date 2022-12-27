@@ -1,7 +1,7 @@
-<h2 align="center"><u>Al Kapone</u></h2>
+<u>Al Kapone</u>
 
 ![Hustler/Developer](https://i.imgur.com/H3AVHuX.png)
-<h4 align="center"> Hustler/Developer </h4>
+Hustler/Developer
 
 <p align="center">
 <br>
