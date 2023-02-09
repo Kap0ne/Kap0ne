@@ -6,7 +6,7 @@
 </p>
 
 ### [+] About Me:
-I'm just a young man who likes to get money
+Just a young man on a money mission
 
 ### [+] Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/WB8Hn9Eze8) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCKzZYZkT2GrdPz7Ao280Zlg)
